@@ -1,0 +1,8 @@
+C:\Users\toshiba\source\repos\DAEA_Lab08\DAEA_Lab08\bin\Debug\DAEA_Lab08.exe.config
+C:\Users\toshiba\source\repos\DAEA_Lab08\DAEA_Lab08\bin\Debug\DAEA_Lab08.exe
+C:\Users\toshiba\source\repos\DAEA_Lab08\DAEA_Lab08\bin\Debug\DAEA_Lab08.pdb
+C:\Users\toshiba\source\repos\DAEA_Lab08\DAEA_Lab08\obj\Debug\DAEA_Lab08.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\DAEA_Lab08\DAEA_Lab08\obj\Debug\DAEA_Lab08.csproj.SuggestedBindingRedirects.cache
+C:\Users\toshiba\source\repos\DAEA_Lab08\DAEA_Lab08\obj\Debug\DAEA_Lab08.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\DAEA_Lab08\DAEA_Lab08\obj\Debug\DAEA_Lab08.exe
+C:\Users\toshiba\source\repos\DAEA_Lab08\DAEA_Lab08\obj\Debug\DAEA_Lab08.pdb
